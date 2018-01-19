@@ -1,2 +1,1 @@
-# Simple-Interest-Calculator
-Simple Interest Calculator Android App
+# Simple Interest Calculator Android App

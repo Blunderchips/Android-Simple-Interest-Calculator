@@ -1,0 +1,55 @@
+commit 6b3bdacb4f80a6abe4f2dd55f9f6495d3e409f08
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri Jan 19 13:05:25 2018 +0200
+
+    Moved title screens
+
+commit 2cd7fb14d118d83e9886d1c607b09ac289b199e8
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri Jan 19 12:57:23 2018 +0200
+
+    Add files via upload
+    
+    Added Play Store trailer video
+    https://www.youtube.com/watch?v=HFsT8dmIxGs
+
+commit 8d66ed76c2d518b8317175b48d73c932f07584f8
+Merge: a5b7641 c27ce3d
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri Jan 19 12:53:04 2018 +0200
+
+    Merge branch 'master' of https://github.com/Blunderchips/Simple-Interest-Calculator
+
+commit c27ce3d57214f9dd9635d1e6b4606b053d904ae5
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri Jan 19 12:51:39 2018 +0200
+
+    Add files via upload
+    
+    Added Rating Certificate
+
+commit a5b76411a81b685f1e13b77a0a0977c93557c326
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri Jan 19 12:51:05 2018 +0200
+
+    First Commit
+
+commit f04147dc06eb0ee3eb3a79ff32e170d39f2132e3
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri Jan 19 12:49:02 2018 +0200
+
+    Created Readme
+    
+    Added information from play store, License and link to play store page
+
+commit 8f8135ee980d09c1b72d8cb56fce09001824d645
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri Jan 19 12:47:37 2018 +0200
+
+    Update README.md
+
+commit c32b2927987ffce105f43785e5705e4752edf700
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri Jan 19 12:47:18 2018 +0200
+
+    Initial commit
